@@ -21,7 +21,7 @@ body section {
 }
 
 body section .header-image {
-  background-image: url(../img/image-header-mobile.jpg);
+  background-image: url(..img/image-header-mobile.jpg);
   background-size: cover;
   height: 65vw;
   width: 100%;
