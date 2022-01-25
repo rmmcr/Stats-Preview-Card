@@ -96,7 +96,7 @@ body section .main .counters .counter .stats-title {
     flex-direction: row-reverse;
   }
   body section .header-image {
-    background-image: url(./img/image-header-desktop.jpg);
+    background-image: url(../img/image-header-desktop.jpg);
     background-size: cover;
     height: auto;
     width: 49.1%;
